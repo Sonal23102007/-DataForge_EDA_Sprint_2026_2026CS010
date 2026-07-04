@@ -1,0 +1,1 @@
+# Practical 7 Report\n\nAdd your pandas inspection insights here.\n
