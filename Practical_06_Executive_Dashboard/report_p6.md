@@ -1,4 +1,4 @@
-# Practical 6 Report\n\nAdd your executive dashboard summary here.\n
+
 # Report
 **1. What is the dashboard’s main business message?**
 The dashboard highlights overall business performance by showing key metrics such as total sales, profit, and order count. It helps identify trends over time, top-performing categories, and areas where profitability is low. The main message is to provide a clear view of how the business is performing and where improvements or strategic decisions are needed.

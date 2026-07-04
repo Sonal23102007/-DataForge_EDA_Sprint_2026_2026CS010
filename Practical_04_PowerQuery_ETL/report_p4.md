@@ -1,11 +1,10 @@
-# Practical 4 Report\n\nAdd your ETL and Power Query explanation here.\n
+
 # Practical 4: Power BI Power Query Cleaning Pipeline
 
 ## Objective
 
 The objective of this practical was to use Power BI Power Query to clean and transform raw data, and to build a reusable ETL (Extract, Transform, Load) pipeline.
 
----
 
 ## Tasks Performed
 
@@ -39,7 +38,6 @@ The objective of this practical was to use Power BI Power Query to clean and tra
 
    * **03_powerbi/p4_power_query_pipeline.pbix**
 
----
 
 ## Observations
 

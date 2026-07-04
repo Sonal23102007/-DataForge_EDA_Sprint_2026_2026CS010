@@ -1,11 +1,10 @@
-# Practical 5 Report\n\nAdd your DAX modeling details here.\n
+
 # Practical 5: Power BI Model, Measures and KPI Logic
 
 ## Objective
 
 The objective of this practical was to understand Power BI data modeling, create measures using DAX, and design KPI logic for business insights.
 
----
 
 ## Tasks Performed
 
@@ -40,8 +39,6 @@ The objective of this practical was to understand Power BI data modeling, create
 
    * Model View
    * Measures list
-
----
 
 ## Observations
 

@@ -1,4 +1,4 @@
-# Practical 3 Report\n\nAdd your pivot table and dashboard summary here.\n
+
 # Practical 3: Excel EDA with Formulas, Pivot Tables and Charts
 
 ## Objective

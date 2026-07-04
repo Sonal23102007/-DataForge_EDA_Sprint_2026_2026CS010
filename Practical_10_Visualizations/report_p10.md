@@ -4,12 +4,10 @@
 **Name:** Sonal Poul
 **Dataset:** Superstore Sales Dataset
 
----
 
 ## Problem Statement
 The objective of this practical is to perform visual exploratory data analysis (EDA) using Python. The goal is to understand patterns, trends, and relationships in the dataset using different charts and graphs.
 
----
 
 ## Procedure
 1. Loaded cleaned dataset from Practical 8.
@@ -25,7 +23,6 @@ The objective of this practical is to perform visual exploratory data analysis (
 3. Saved all plots in the plots folder.
 4. Analyzed patterns and trends from graphs.
 
----
 
 ## Outputs Created
 - histogram_sales.png  
@@ -37,7 +34,6 @@ The objective of this practical is to perform visual exploratory data analysis (
 - missing.png  
 - category.png  
 
----
 
 ## Observations
 1. Sales are mostly concentrated in lower ranges.
@@ -48,7 +44,7 @@ The objective of this practical is to perform visual exploratory data analysis (
 6. Missing values are minimal.
 7. Category-wise sales differ significantly.
 
----
+
 
 ## Conclusion
 Visual EDA helped in understanding data distribution, trends, and relationships. It made it easier to identify business insights and patterns for decision-making.

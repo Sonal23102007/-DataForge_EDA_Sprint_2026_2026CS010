@@ -1,4 +1,5 @@
-# Practical 7 Report\n\nAdd your pandas inspection insights here.\n
+
+
 # Practical 7: Python DataFrame Setup and Schema Validation
 
 ## Objective

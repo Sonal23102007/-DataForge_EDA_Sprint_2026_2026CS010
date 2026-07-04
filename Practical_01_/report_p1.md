@@ -1,6 +1,7 @@
-# Practical 1 Report\n\nAdd your Excel cleaning summary and observations here.\n
+
 
 ## Report question-Practical 1
+
 ## 1. What is one row in this dataset representing?
 Ans: Each row in the dataset represents a single product-level sales transaction.
 It contains details about the order, customer, product, location, and the sales amount for that specific item.

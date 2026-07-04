@@ -1,4 +1,4 @@
-# Practical 2 Report\n\nAdd your statistics and outlier analysis here.\n
+
 # Practical 2 - Excel Data Cleaning
 
 ## Steps Performed
